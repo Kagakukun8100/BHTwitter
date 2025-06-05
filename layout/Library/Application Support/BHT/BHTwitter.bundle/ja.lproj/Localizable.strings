@@ -10,7 +10,7 @@
 "CUSTOM_FONTS_MENU_TITLE" = "\nカスタムフォントを選択してください";
 "CUSTOM_FONTS_TUT_ALERT_MESSAGE" = "インストール済みのカスタムフォントが見つかりませんでした。 \nカスタムフォントのインストール方法 \nAppStoreからiFontをインストールし、フォントを検索またはインポートしてインストールしてください。そうするとここにカスタムフォントが表示されます。";
 
-"OK_BUTTON_TITLE" = "";
+"OK_BUTTON_TITLE" = "OK";
 "YES_BUTTON_TITLE" = "はい";
 "NO_BUTTON_TITLE" = "いいえ";
 "CONFIRM_ALERT_MESSAGE" = "本当によろしいですか？";
@@ -140,7 +140,8 @@
 "CUSTOM_TAB_BAR_OPTION_4" = "コミュニティ";
 "CUSTOM_TAB_BAR_OPTION_5" = "通知";
 "CUSTOM_TAB_BAR_OPTION_6" = "メッセージ";
-"CUSTOM_TAB_BAR_OPTION_7" = "";
+"CUSTOM_TAB_BAR_OPTION_7" = "Grok";
+"CUSTOM_TAB_BAR_OPTION_8" = "動画";
 
 "TWITTER_BLUE_SECTION_FOOTER_TITLE" = "変更を適用させるにはアプリを再起動する必要があります。";
 
